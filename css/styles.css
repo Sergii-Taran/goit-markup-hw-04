@@ -217,12 +217,12 @@ img {
 
 .hero-container {
   background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/bg-hero.jpg);
+  max-width: 1440px;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   padding-top: 188px;
-  padding-bottom: 188px;
-  max-width: 1440px;
+  padding-bottom: 188px;  
 }
 
 .hero-title {
